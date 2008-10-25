@@ -1,0 +1,14 @@
+Typo Forty Three Places sidebar plugin
+
+* INSTALL
+
+Download Typo Forty Three Places and unpack it into vendor/plugins or go to your Typo application and:
+
+./script/plugin install git://github.com/fdv/fortythreeplaces_sidebar.git
+
+
+Then, go to http://yourdomain/admin/sidebar and enable Typo Forty Three Places sidebar plugin.
+
+* REQUIREMENTS
+
+Typo Forty Three Places sidebar needs Typo version 4.1 or greater. Typo is at http://typosphere.org or http://github.com/fdv/typo/tree
